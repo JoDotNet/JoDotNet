@@ -11,6 +11,6 @@ Contact me on Discord: .𝓙σ#2541
 
 ### Programming Languages
 
-* Lua
+* C#
 * Python
-* C# (Learning)
+* Lua

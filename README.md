@@ -6,8 +6,8 @@ Contact me on Discord: .𝓙σ#2541
 
 ### About
 
-* Gamer
 * Developer
+* Gamer
 
 ### Programming Languages
 
